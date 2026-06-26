@@ -46,12 +46,38 @@ A gestão manual das justificativas de faltas gera diversos desafios:
 
 ---
 
-## 💡 Proposta da Solução
+## 💡 Proposta da Solução 
 
-O JustificaEdu centraliza e automatiza o gerenciamento das justificativas de faltas. A coordenação registra as justificativas diretamente na plataforma e o sistema identifica automaticamente os professores relacionados ao aluno e à turma.
+O JustificaEdu é uma plataforma web desenvolvida para automatizar o gerenciamento de justificativas de faltas em escolas públicas. O sistema permite que a coordenação registre as justificativas e documentos comprobatórios diretamente na plataforma, direcionando automaticamente as informações apenas aos professores responsáveis pelas turmas envolvidas.
 
-Cada docente possui acesso a um painel personalizado, visualizando apenas as justificativas de suas turmas. Dessa forma, elimina-se a necessidade de consultar planilhas extensas, reduzindo erros e tempo gasto com processos burocráticos.
+Cada docente terá acesso a um painel personalizado com as justificativas referentes às suas aulas, eliminando a necessidade de consultar planilhas extensas e reduzindo o tempo gasto com processos burocráticos. 
 
-Além disso, o sistema envia notificações automáticas sobre novas justificativas registradas, garantindo uma comunicação rápida e eficiente entre coordenação e professores.
+Além disso, o sistema disponibilizará relatórios e indicadores de frequência escolar, auxiliando a gestão no acompanhamento da presença dos alunos, na prevenção da evasão escolar e no suporte ao controle das exigências de programas sociais vinculados à frequência escolar. 
+
+Com isso, a solução promove maior eficiência administrativa, melhor organização das informações e mais tempo para que professores e coordenadores se dediquem às 
+atividades educacionais. 
 
 ---
+
+## 🚀 Funcionalidades da Solução 
+### Para a Coordenação 
+* Cadastro de alunos;
+* Cadastro de turmas;
+* Registro de justificativas de faltas; 
+* Upload de atestados e documentos comprobatórios; 
+* Consulta do histórico de ausências; 
+
+### Para os Professores 
+* Login individual; 
+* Visualização apenas das turmas vinculadas; 
+* Lista automática de alunos com faltas justificadas; 
+* Filtros por data, turma e aluno; 
+* Histórico de justificativas;
+* Notificações de novas justificativas registradas;
+
+### Funcionalidades Gerais 
+* Sistema de busca rápida; 
+* Painel de indicadores; 
+* Controle de acesso por perfil de usuário; 
+* Armazenamento seguro de documentos; 
+* Relatórios automáticos; 
