@@ -80,4 +80,63 @@ atividades educacionais.
 * Painel de indicadores; 
 * Controle de acesso por perfil de usuário; 
 * Armazenamento seguro de documentos; 
-* Relatórios automáticos; 
+* Relatórios automáticos;
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+### Back-end
+
+* `Python`
+* `Django`
+
+### Front-end
+
+* `Django Templates`
+* `HTML5`
+* `CSS3`
+* `Bootstrap`
+* `JavaScript`
+
+### Banco de Dados
+
+* `PostgreSQL`
+* `SQLite` (desenvolvimento)
+
+### Controle de Versão
+
+* `Git`
+* `GitHub`
+
+---
+
+
+## 🔄 Metodologia de Desenvolvimento
+
+O projeto utiliza Git e GitHub para:
+
+* Controle de versão;
+* Desenvolvimento colaborativo;
+* Criação de branches para novas funcionalidades;
+* Revisão de código por Pull Requests;
+* Gerenciamento de tarefas por Issues.
+
+---
+
+## 📈 Benefícios Esperados
+
+* Redução do trabalho manual dos professores;
+* Maior organização das justificativas escolares;
+* Menor ocorrência de erros administrativos;
+* Melhor comunicação entre coordenação e docentes;
+* Maior eficiência na gestão escolar;
+* Apoio ao acompanhamento da frequência dos alunos.
+
+---
+
+## 👨‍💻 Equipe
+
+Projeto acadêmico desenvolvido como proposta tecnológica alinhada aos Objetivos de Desenvolvimento Sustentável da ONU.
+
+---
